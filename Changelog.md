@@ -13,11 +13,11 @@ Visor for *PRUSA RC2 PWr remix* protective shield headband and bottom reinforcem
  * upper holes have been enlarged slightly in order to counter the effect of 400um PET being less prone to extending that 200um PVC 
  * lower holes have been enlarged and moved to make the design less sensitive for machining tolerance
 
-### v1.2 
+### v1.2 (2020/03/29)
 * upper holes has been moved slightly after feedback from doctors because for some of them lower part was too short (extra upper part length as a side effect/benefit)
 * slightly changed vertical dimension - less material waste for some prefabricates 
 
-### v1.0
+### v1.0 (2020/03/29
 * design for laser cutter, milling machine, ploter etc. for *Prusa RC2 - PWr remix* headband and bottom reinforcement set that primarily used A4 sized clear binding sheets made of PVC 
 #### Benefits compared to A4 binding sheets
 * material approved by many ministries of health
