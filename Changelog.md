@@ -25,6 +25,8 @@ Visor for *PRUSA RC2 PWr remix* protective shield headband and bottom reinforcem
 * part extended over the headband - prevents microbes from landing on hair and forehead 
 * increased overall visor height for better protection
 
+![cc-by-nc-sa-4.0](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+
 
 
 ## *Polish translation*
@@ -48,6 +50,7 @@ Visor for *PRUSA RC2 PWr remix* protective shield headband and bottom reinforcem
 * materiał jest aprobowany m.in. przez czeskie MZ i DIL
 * zwiększona grubość ma korzystny wpływ na stabilność przyłbicy
 
+![cc-by-nc-sa-4.0](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
 
 
