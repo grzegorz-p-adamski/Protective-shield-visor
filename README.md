@@ -8,7 +8,7 @@
 * tl;dr:
     * you must mention the author if you use this project
     * it is allowed only for non-commercial use
-    * if you use it you must share dependectp product on the same license
+    * if you use it you must share dependent product on the same license
 
 ## Version managament
 
