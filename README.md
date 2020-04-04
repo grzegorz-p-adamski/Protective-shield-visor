@@ -1,5 +1,12 @@
 # Protective-shield-visor
 
+##  License 
+
+Product is licensed with with *Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International* license
+![cc-by-nc-sa-4.0][licenselogo]
+[licenselogo]:https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.eu.png)
+
+
 ## Version managament
 
 **Always use the most current version.** 
