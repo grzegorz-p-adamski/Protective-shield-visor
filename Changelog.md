@@ -6,7 +6,7 @@ Visor for *PRUSA RC2 PWr remix* protective shield headband and bottom reinforcem
 
 ## v1.4 (2020/04/03)
 * further hole size tuning 
-#### v1.4NB 
+#### v1.4NB (2020/04/08)
 * bottom holes removed
 
 ## v1.3  (2020/04/03)
@@ -34,8 +34,9 @@ Visor for *PRUSA RC2 PWr remix* protective shield headband and bottom reinforcem
 ## *Polish translation*
 ### v1.4 (2020/04/03)
 * optymalizacja rozmiaru otworów
-#### v1.4NB 
+##### v1.4NB (2020/04/08)
 * usunięcie dolnych otworów
+
 ### v1.3 (2020/04/03)
 * powiększono nieznacznie otwory górne, ze względu na mniejszą elastyczność PET niż PVC
 * przesunięto i powiększono otwory dolne by zapewnić większą kompatybilność między elementami wykonanymi na urządzeniach o różnej tolerancji
