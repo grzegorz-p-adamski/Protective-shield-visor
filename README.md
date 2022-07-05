@@ -1,5 +1,8 @@
 # Protective-shield-visor
 
+<img src="https://github.com/grzegorz-p-adamski/Protective-shield-visor/blob/2995c99efdd89bff008733063fe59710afe9f5a4/wizualizacje/zlozona_przylbica_2020-Mar-29_05-21-49PM-000_CustomizedView12250186579.png" alt="visor render" width="700"/>
+
+
 ##  License 
 ![cc-by-nc-sa-4.0](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 * Product is licensed with with *Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International* license
